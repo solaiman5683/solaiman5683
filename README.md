@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **solaiman.sh6@gmail.com**
+- 📫 How to reach me **solaiman.sh6@gmail.com** - **https://sulaimanhosain.me/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
